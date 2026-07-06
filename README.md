@@ -27,28 +27,11 @@ read time, and drops it into a list you can actually come back to later.
 ## What it isn't
 
 This isn't Pocket or Readwise with a subscription and a team behind it —
-it's a personal tool, built for one person's reading habits. No algorithm
-deciding what you should read next, no feed, no streaks or points for
-reading more. If you want fewer things competing for your attention while
-you're trying to read fewer things, that's the whole idea.
-
-## Signing in
-
-You can sign in with GitHub, or with an email and password — no magic
-links, no "check your inbox," nothing that depends on some mail server
-being awake right now. Registration checks that your email's domain looks
-real, not that a specific mailbox exists, so either way it's instant.
-Forgot your password? There's no email reset flow — you can only change
-your password from Settings while signed in, which means signing in with
-GitHub is worth keeping as a backup if you ever expect to lose the
-password.
+it's a personal tool, built for one person's reading habits. 
 
 ## Using it
 
 Paste a link on the Add screen, glance at the preview it builds, save it if
-it looks right. Everything else — status, tags, highlights — happens from
-the item itself or from the Inbox list. Theme (light, dark, or matching
-your system) is one click away in the header, even before you've signed
-in.
+it looks right. 
 
 That's it. It's meant to stay small.
